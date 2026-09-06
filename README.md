@@ -32,7 +32,7 @@
 | Domain | Technologies & Frameworks |
 |---|---|
 | **Healthcare Interoperability** | `InterSystems IRIS` `HealthShare` `HealthConnect` `Ensemble` `Caché` `ObjectScript` `HL7 v2.5` `HL7 FHIR` `SDA3` `TISS` `PACS/DICOM` `MPI` |
-| **Backend & JVM** | `Java 17/21` `Quarkus` `Spring Boot` `MicroProfile` `Hibernate/Panache` `Node.js` `NestJS` `Kafka` `RabbitMQ` `Oracle PL/SQL` |
+| **Backend & JVM** | `Java 17/21` `Quarkus` `Spring Boot` `MicroProfile` `Hibernate/Panache` `Node.js` `NestJS` `Kafka` `RabbitMQ` `Oracle PL/SQL` `REST` `JSF` `WebSockets` `QRCode` `ZXing` `JWT` |
 | **Applied AI & Agents** | `LangChain4j` `RAG` `pgvector` `MCP (Model Context Protocol)` `Tool Calling Agents` `AI Guardrails` `Ollama` `Gemini` `n8n` |
 | **Modern Frontend & Mobile** | `Next.js` `React 19` `TypeScript` `Tailwind CSS` `React Native` `Expo` `Compose Multiplatform` `Kotlin Multiplatform` |
 | **Data & Storage** | `PostgreSQL` `Oracle` `MySQL` `MSSQL` `MongoDB` `Cassandra` `Redis` `ClickHouse` `Neo4j` `DynamoDB` `Prisma` `Liquibase` |
@@ -204,7 +204,7 @@ In [`unipds-concorrencia-multithreading`](https://github.com/Artanniel/unipds-co
     "Postgraduate in Software Engineering & Design Patterns (UECE)"
   ],
   "knowsAbout": [
-    "Java", "Quarkus", "Spring Boot", "InterSystems IRIS", "HealthShare", "HealthConnect",
+    "Java", "Quarkus", "Spring Boot", "InterSystems IRIS", "HealthShare", "HealthConnect", "JPA", "WebSocket", "JSF", "REST", "QRCode", "ZXing", "JWT"
     "ObjectScript", "HL7 v2.5", "HL7 FHIR", "SDA3", "TISS", "PACS/DICOM", "Applied AI",
     "LangChain4j", "RAG", "pgvector", "Model Context Protocol (MCP)", "AI Agents",
     "AWS", "Kubernetes", "K3s", "Terraform", "PostgreSQL", "Oracle PL/SQL", "Redis",
