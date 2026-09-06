@@ -5,7 +5,7 @@
   <br>
   <sub>17+ years in technology &amp; software engineering (since 2009) — clinical interoperability at national scale, fintech, US SaaS, and applied AI platforms.</sub>
   <br>
-  <sub>📍 Fortaleza, Brazil</sub>
+  <sub>Brazil</sub>
 </p>
 
 <p align="center">
