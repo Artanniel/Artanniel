@@ -19,8 +19,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Artanniel&theme=dark" alt="GitHub Streak" height="165" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Artanniel&show_icons=true&theme=dark&rank_icon=github" alt="Artanniel's GitHub Stats" height="175" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Artanniel&layout=compact&theme=dark&hide=html,css" alt="Top Languages" height="175" style="height: 175px;
+  <img src="https://github-readme-stats.vercel.app/api?username=Artanniel&show_icons=true&theme=dark&rank_icon=github" alt="Artanniel's GitHub Stats" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artanniel&layout=compact&theme=dark&hide=html,css" alt="Top Languages" height="175" style="height: 175px;
     max-height: 175px;"/>
 </p>
 
